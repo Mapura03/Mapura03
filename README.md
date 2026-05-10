@@ -2,7 +2,7 @@
 
 ![SANTIAGO MAPURA HERNÁNDEZ](imagenes/SANTIAGO_MAPURA.png)
 
-Soy **Santiago Mapura Hernández**, **estudiante de Ingeniería de Sistemas y Telecomunicaciones (6.º semestre)** y **Técnico en Programación para Analítica de Datos**. Me caracterizo por tener un perfil **analítico, creativo y orientado al aprendizaje continuo**, con especial interés en el **análisis de datos, automatización de procesos y Ciberseguridad**.
+Soy **Santiago Mapura Hernández**, **estudiante de Ingeniería de Sistemas y Telecomunicaciones (7.º semestre)** y **Técnico en Programación para Analítica de Datos**. Me caracterizo por tener un perfil **analítico, creativo y orientado al aprendizaje continuo**, con especial interés en el **análisis de datos, automatización de procesos y Ciberseguridad**.
 
 Cuento con experiencia práctica en **limpieza y preprocesamiento de datos**, **automatización de análisis**, **generación de reportes** y **optimización de procesos administrativos**, utilizando herramientas como **Python, Excel, Power Query y Power BI**. Además, tengo experiencia brindando **soporte técnico a plataformas virtuales educativas**, garantizando su correcto funcionamiento y acompañando a docentes y personal administrativo.
 
