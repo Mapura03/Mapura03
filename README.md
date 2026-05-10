@@ -39,8 +39,8 @@ Durante mi etapa práctica participé activamente en procesos de **limpieza y pr
 Brinde **soporte técnico** a la plataforma virtual de cursos en línea, garantizando su disponibilidad y correcto funcionamiento. Realizo **administración de la plataforma**, acompañamiento a docentes y personal administrativo, e implementación de **soluciones con Excel y Python**, como la **carga masiva de usuarios**, mejorando la eficiencia de los procesos académicos y administrativos.
 
 ### **Nova IT Solutions**
-**Desarrollador de Software**
-*Diciembre 2025 – Actualidad*
+**Desarrollador de Software**  
+*Diciembre 2025 – Actualmente*  
 
 Participo en el desarrollo y mantenimiento de plataformas web y software a medida para clientes en entornos productivos reales. Trabajo en la implementación de funcionalidades, optimización de procesos y mejora del rendimiento de sistemas utilizando herramientas de desarrollo modernas y control de versiones con Git. También apoyo el diseño de soluciones escalables y la automatización de procesos para aumentar la eficiencia operativa y la estabilidad de las aplicaciones.
 
